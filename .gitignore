@@ -1,6 +1,3 @@
-cmake-build-debug
-CMakeCache.txt
-CMakeFiles/
-Makefile
-cmake_install.cmake
-.idea
+process/CMakeFiles
+process/cmake_install.cmake
+process/Makefile
